@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://www.waca.associates/en/wp-content/uploads/2021/04/slam-dunk-jump-splash-basketball-player_9245-134.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    font-style: italic;
+}
+div{
+    background-color: wheat;
+    opacity: 0.5;
+}
+h2{
+    color: rebeccapurple;
+}
+h3{
+    color: rebeccapurple
+}
+h4{
+    color: white;
+}
